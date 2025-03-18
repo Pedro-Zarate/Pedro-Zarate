@@ -7,8 +7,7 @@
 <body>
     
 <h1 style="border-bottom: 3px solid;padding:5px 5px "> Hi, I'm Pedro, an IT Professional </h1>
-<p style=" font-size:17px;"> Below you will find some of my latest projects ive been working on. Ive been working
-    on my It skills and have experiance with other Technology <br> such as Html,CSS & JS feel free to look at some of my
+<p style=" font-size:17px;"> Below you will find some of my latest projects ive been working on. I also have experiance with other technologies <br> such as Html,CSS & JS feel free to look at some of my
 other repository's. </p>
 <h3> Information Technology Projects: </h3>
 <ul> <!---  come back and add links -->
