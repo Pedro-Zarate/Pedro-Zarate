@@ -18,10 +18,10 @@ other repository's. </p>
 
 <h3> Microsoft Azure </h3>
 <ul>
-  <a href="">  <li> 
+  <a href="https://github.com/Pedro-Zarate/Config-Azure">  <li> 
         Configuration (Active Directory within Azure VMs)
     </li> </a>
-   <a href="https://github.com/Pedro-Zarate/Config-Azure"> <li>
+   <a href=""> <li>
         Network security groups (NSGs) and inspecting network protocols 
     </li> </a>
 </ul>
