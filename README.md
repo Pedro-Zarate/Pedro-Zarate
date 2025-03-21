@@ -12,7 +12,7 @@ other repository's. </p>
 <h3> Information Technology Projects: </h3>
 <ul> <!---  come back and add links -->
  <a href="https://github.com/Pedro-Zarate/osTicket-Install">   <li>osTicket (Help Desk Ticketing System) </li> </a>
- <a href="">   <li>osTicket: Ticket Lifecycle Examples </li> </a>
+ <a href="https://github.com/Pedro-Zarate/osTicket-creating-tickets/blob/main/README.md">   <li>osTicket: Ticket Lifecycle Examples </li> </a>
 </ul>
 
 <h3> Microsoft Azure </h3>
