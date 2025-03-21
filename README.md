@@ -11,7 +11,7 @@
 other repository's. </p>
 <h3> Information Technology Projects: </h3>
 <ul> <!---  come back and add links -->
- <a href="">   <li>osTicket (Help Desk Ticketing System) </li> </a>
+ <a href="https://github.com/Pedro-Zarate/osTicket-Install">   <li>osTicket (Help Desk Ticketing System) </li> </a>
  <a href="">   <li>osTicket: Post-installation configuration</li> </a>
  <a href="">   <li>osTicket: Ticket Lifecycle Examples </li> </a>
 </ul>
