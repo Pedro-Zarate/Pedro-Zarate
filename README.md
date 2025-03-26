@@ -28,7 +28,7 @@ other repository's. </p>
  <h3> <a href="https://github.com/Pedro-Zarate/Config-Azure">  <li> 
         Configuration (Active Directory within Azure VMs)
     </li> </a></h3>
-<h3>   <a href=""> <li>
+<h3>   <a href="https://github.com/Pedro-Zarate/azure-network-protocols/blob/main/README.md"> <li>
         Network security groups (NSGs) and inspecting network protocols 
     </li> </a></h3>
 </ul>
